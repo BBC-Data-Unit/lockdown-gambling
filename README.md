@@ -16,6 +16,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * [UK-wide Google Trends data](https://docs.google.com/spreadsheets/d/1jli-f-XOvKcXuh3yzzdeEv5vA0L7cpbr_qNx9EBgxLY/edit#gid=246401736) 
 
+## Background and briefing
+
+* [A full briefing pack on the story can be found here](https://docs.google.com/document/d/1n-Ymy3ymz674T4aaoof8fw50oCedwLnjCzzUDEvgrME/edit)
+
 ## Visualisation 
 
 * Line chart: All-time search interest in the topic "Casinos" in the UK from Google Trends
