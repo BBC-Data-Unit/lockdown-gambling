@@ -1,4 +1,4 @@
-# Online casino searches at 'all-time high' in the UK during lockdown
+# Online casino searches at 'all-time high' during lockdown
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/F809/production/_112379436_de582412-13ba-4d35-9885-7f3a3643f607.png)
 
@@ -14,6 +14,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Milton Keynes Citizen: [As online gambling soars in Milton Keynes, here's what will happen if you're still betting after one hour](https://www.miltonkeynes.co.uk/business/consumer/online-gambling-soars-milton-keynes-heres-what-will-happen-if-youre-still-betting-after-one-hour-2860587) *21 May 2020*
 * Northampton Chronicle & Echo: [Online gambling increases in Northampton during lockdown - and gamblers are spending more time and money, according to new report](https://www.northamptonchron.co.uk/health/online-gambling-increases-northampton-during-lockdown-and-gamblers-are-spending-more-time-and-money-according-new-report-2861009) *21 May 2020*
+* Bolton News: [Bolton top five in the UK for internet searches for casinos online](https://www.theboltonnews.co.uk/news/18473670.bolton-top-five-uk-internet-searches-casinos-online/) *26 May 2020*
 
 ## Get the data
 
